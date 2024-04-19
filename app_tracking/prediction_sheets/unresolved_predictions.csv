@@ -1,7 +1,9 @@
-index,title,post_date,url,date_created,logits,pred,tweet_id
-1,AITA for not wanting to work for my abusive father?,2024-04-11,https://www.reddit.com/r/AmItheAsshole/comments/1c1qwg8/aita_for_not_wanting_to_work_for_my_abusive_father/,2024-04-11,-0.01571561768651,0,1778564548938670367
-5,AITA fight about other guys with girlfriend ,2024-04-17,https://www.reddit.com/r/AmItheAsshole/comments/1c6mjhq/aita_fight_about_other_guys_with_girlfriend/,2024-04-17,1.0616611242294312,1,1780736397873389717
-7,"AITA for ignoring my dad over and over again because of things they deem ""insignificant issues""?",2024-04-18,https://www.reddit.com/r/AmItheAsshole/comments/1c7fixa/aita_for_ignoring_my_dad_over_and_over_again/,2024-04-18,-0.0018782161641865,0,1781090007983514107
-9,AITA for kicking everyone out of my life?,2024-04-18,https://www.reddit.com/r/AmItheAsshole/comments/1c7eb8n/aita_for_kicking_everyone_out_of_my_life/,2024-04-18,1.064374327659607,1,1781094301789024449
-10,AITA for feeling possessive over my Bf’s and his Female bestie’s bond? ,2024-04-19,https://www.reddit.com/r/AmItheAsshole/comments/1c7y68m/aita_for_feeling_possessive_over_my_bfs_and_his/,2024-04-19,1.0637263059616089,1,1781433338789577196
-11,AITA for pressuring my (26M) GF (24F) to step up?,2024-04-19,https://www.reddit.com/r/AmItheAsshole/comments/1c86509/aita_for_pressuring_my_26m_gf_24f_to_step_up/,2024-04-19,1.06234610080719,1,1781433339481563437
+,title,post_date,url,date_created,logits,pred,tweet_id
+0,AITA for not wanting to work for my abusive father?,2024-04-11,https://www.reddit.com/r/AmItheAsshole/comments/1c1qwg8/aita_for_not_wanting_to_work_for_my_abusive_father/,2024-04-11,-0.01571561768651,0,1778564548938670367
+1,AITA fight about other guys with girlfriend ,2024-04-17,https://www.reddit.com/r/AmItheAsshole/comments/1c6mjhq/aita_fight_about_other_guys_with_girlfriend/,2024-04-17,1.0616611242294312,1,1780736397873389717
+2,"AITA for ignoring my dad over and over again because of things they deem ""insignificant issues""?",2024-04-18,https://www.reddit.com/r/AmItheAsshole/comments/1c7fixa/aita_for_ignoring_my_dad_over_and_over_again/,2024-04-18,-0.0018782161641865,0,1781090007983514107
+3,AITA for kicking everyone out of my life?,2024-04-18,https://www.reddit.com/r/AmItheAsshole/comments/1c7eb8n/aita_for_kicking_everyone_out_of_my_life/,2024-04-18,1.064374327659607,1,1781094301789024449
+4,AITA for feeling possessive over my Bf’s and his Female bestie’s bond? ,2024-04-19,https://www.reddit.com/r/AmItheAsshole/comments/1c7y68m/aita_for_feeling_possessive_over_my_bfs_and_his/,2024-04-19,1.0637263059616089,1,1781433338789577196
+5,AITA for pressuring my (26M) GF (24F) to step up?,2024-04-19,https://www.reddit.com/r/AmItheAsshole/comments/1c86509/aita_for_pressuring_my_26m_gf_24f_to_step_up/,2024-04-19,1.06234610080719,1,1781433339481563437
+6,AITA for saying my friend acts like a two year old? ,2024-04-19,https://www.reddit.com/r/AmItheAsshole/comments/1c80o7w/aita_for_saying_my_friend_acts_like_a_two_year_old/,2024-04-19,1.0608075857162476,1,1781449883993649319
+7,AITA for expecting someone to pay half the cost of a parking fine that they caused me to get?,2024-04-19,https://www.reddit.com/r/AmItheAsshole/comments/1c86e38/aita_for_expecting_someone_to_pay_half_the_cost/,2024-04-19,1.0615648031234741,1,1781449884782166047

@@ -1,4 +1,4 @@
-index,title,post_date,url,date_created,logits,pred,tweet_id
+,title,post_date,url,date_created,logits,pred,tweet_id
 0,AITA for not wanting to work for my abusive father?,2024-04-11,https://www.reddit.com/r/AmItheAsshole/comments/1c1qwg8/aita_for_not_wanting_to_work_for_my_abusive_father/,2024-04-11,-0.01571561768651,0,1778564548938670367
 1,AITA fight about other guys with girlfriend ,2024-04-17,https://www.reddit.com/r/AmItheAsshole/comments/1c6mjhq/aita_fight_about_other_guys_with_girlfriend/,2024-04-17,1.0616611242294312,1,1780736397873389717
 2,"AITA for ignoring my dad over and over again because of things they deem ""insignificant issues""?",2024-04-18,https://www.reddit.com/r/AmItheAsshole/comments/1c7fixa/aita_for_ignoring_my_dad_over_and_over_again/,2024-04-18,-0.0018782161641865,0,1781090007983514107
@@ -8,6 +8,8 @@ index,title,post_date,url,date_created,logits,pred,tweet_id
 6,AITA for going to my guidance counselor and reporting a “small” issue?,2024-04-19,https://www.reddit.com/r/AmItheAsshole/comments/1c87vqj/aita_for_going_to_my_guidance_counselor_and/,2024-04-19,-0.0105445468798279,0,1781454904953045334
 7,AITA for not hanging out with my friend?,2024-04-20,https://www.reddit.com/r/AmItheAsshole/comments/1c8zuuc/aita_for_not_hanging_out_with_my_friend/,2024-04-20,-0.0025964819360524,0,1781819002714791962
 8,AITAH for getting cranky this morning and telling my boyfriend (28M) I want him to spend more time with me/take care of me?,2024-04-21,https://www.reddit.com/r/AmItheAsshole/comments/1c9rsbq/aitah_for_getting_cranky_this_morning_and_telling/,2024-04-21,1.0630097389221191,1,1782178446539722830
-10,AITA for calling her out? ,2024-04-22,https://www.reddit.com/r/AmItheAsshole/comments/1camiko/aita_for_calling_her_out/,2024-04-22,0.0005928974132984,0,1782538530310455330
-11,AITA for not letting my mother live me me? ,2024-04-23,https://www.reddit.com/r/AmItheAsshole/comments/1cbci5x/aita_for_not_letting_my_mother_live_me_me/,2024-04-23,-0.0146595193073153,0,1782900391954571599
-12,WIBTA for using a DND character with a problematic plot with a religious DM?,2024-04-23,https://www.reddit.com/r/AmItheAsshole/comments/1cbgdf3/wibta_for_using_a_dnd_character_with_a/,2024-04-23,1.062902808189392,1,1782900393191891191
+9,AITA for calling her out? ,2024-04-22,https://www.reddit.com/r/AmItheAsshole/comments/1camiko/aita_for_calling_her_out/,2024-04-22,0.0005928974132984,0,1782538530310455330
+10,AITA for not letting my mother live me me? ,2024-04-23,https://www.reddit.com/r/AmItheAsshole/comments/1cbci5x/aita_for_not_letting_my_mother_live_me_me/,2024-04-23,-0.0146595193073153,0,1782900391954571599
+11,WIBTA for using a DND character with a problematic plot with a religious DM?,2024-04-23,https://www.reddit.com/r/AmItheAsshole/comments/1cbgdf3/wibta_for_using_a_dnd_character_with_a/,2024-04-23,1.062902808189392,1,1782900393191891191
+12,AITA for throwing a party for my daughter?,2024-04-24,https://www.reddit.com/r/AmItheAsshole/comments/1cc3ic5/aita_for_throwing_a_party_for_my_daughter/,2024-04-24,1.063048243522644,1,1783260626808168919
+13,AITA for sending a friend an invoice after leaving my house?,2024-04-24,https://www.reddit.com/r/AmItheAsshole/comments/1cc7nvg/aita_for_sending_a_friend_an_invoice_after/,2024-04-24,-0.00561351515352726,0,1783260627625980350

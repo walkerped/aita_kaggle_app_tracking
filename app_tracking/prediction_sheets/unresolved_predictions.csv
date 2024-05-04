@@ -1,4 +1,4 @@
-index,title,post_date,url,date_created,logits,pred,tweet_id
+,title,post_date,url,date_created,logits,pred,tweet_id
 0,AITA for not wanting to work for my abusive father?,2024-04-11,https://www.reddit.com/r/AmItheAsshole/comments/1c1qwg8/aita_for_not_wanting_to_work_for_my_abusive_father/,2024-04-11,-0.01571561768651,0,1778564548938670367
 1,AITA fight about other guys with girlfriend ,2024-04-17,https://www.reddit.com/r/AmItheAsshole/comments/1c6mjhq/aita_fight_about_other_guys_with_girlfriend/,2024-04-17,1.0616611242294312,1,1780736397873389717
 2,"AITA for ignoring my dad over and over again because of things they deem ""insignificant issues""?",2024-04-18,https://www.reddit.com/r/AmItheAsshole/comments/1c7fixa/aita_for_ignoring_my_dad_over_and_over_again/,2024-04-18,-0.0018782161641865,0,1781090007983514107
@@ -18,5 +18,7 @@ index,title,post_date,url,date_created,logits,pred,tweet_id
 16,AITA for wanting my dad to get a DUI?,2024-04-30,https://www.reddit.com/r/AmItheAsshole/comments/1ch3vts/aita_for_wanting_my_dad_to_get_a_dui/,2024-04-30,-0.012333839200437,0,1785429662417727524
 17,AITA for drinking without my friend ,2024-05-01,https://www.reddit.com/r/AmItheAsshole/comments/1cht8c0/aita_for_drinking_without_my_friend/,2024-05-01,1.063381314277649,1,1785793736942723319
 18,AITA for telling my daughter too go live with her Grandparents? ,2024-05-01,https://www.reddit.com/r/AmItheAsshole/comments/1chw8a9/aita_for_telling_my_daughter_too_go_live_with_her/,2024-05-01,1.0638917684555054,1,1785793737626415211
-21,AITA For evicting my Sibling?,2024-05-03,https://www.reddit.com/r/AmItheAsshole/comments/1cjc2jf/aita_for_evicting_my_sibling/,2024-05-03,-0.0145665807649493,0,1786513649806233896
-22,AITA for snooping into my boyfriends phone and sending hateful messages to a girl he's been talking to?,2024-05-03,https://www.reddit.com/r/AmItheAsshole/comments/1cjho1v/aita_for_snooping_into_my_boyfriends_phone_and/,2024-05-03,1.057461857795715,1,1786513650942939268
+19,AITA For evicting my Sibling?,2024-05-03,https://www.reddit.com/r/AmItheAsshole/comments/1cjc2jf/aita_for_evicting_my_sibling/,2024-05-03,-0.0145665807649493,0,1786513649806233896
+20,AITA for snooping into my boyfriends phone and sending hateful messages to a girl he's been talking to?,2024-05-03,https://www.reddit.com/r/AmItheAsshole/comments/1cjho1v/aita_for_snooping_into_my_boyfriends_phone_and/,2024-05-03,1.057461857795715,1,1786513650942939268
+21,AITA for leaving home?,2024-05-04,https://www.reddit.com/r/AmItheAsshole/comments/1ck3xko/aita_for_leaving_home/,2024-05-04,-0.015163521282374859,0,1786876878537781584
+22,AITA for not taking my grandmother who neglected me to her doctor's appointment?,2024-05-04,https://www.reddit.com/r/AmItheAsshole/comments/1ck7tnh/aita_for_not_taking_my_grandmother_who_neglected/,2024-05-04,-0.006831442937254906,0,1786876879305392158

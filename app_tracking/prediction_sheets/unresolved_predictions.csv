@@ -1,4 +1,4 @@
-,title,post_date,url,date_created,logits,pred,tweet_id
+index,title,post_date,url,date_created,logits,pred,tweet_id
 0,AITA for not wanting to work for my abusive father?,2024-04-11,https://www.reddit.com/r/AmItheAsshole/comments/1c1qwg8/aita_for_not_wanting_to_work_for_my_abusive_father/,2024-04-11,-0.01571561768651,0,1778564548938670367
 1,AITA fight about other guys with girlfriend ,2024-04-17,https://www.reddit.com/r/AmItheAsshole/comments/1c6mjhq/aita_fight_about_other_guys_with_girlfriend/,2024-04-17,1.0616611242294312,1,1780736397873389717
 2,"AITA for ignoring my dad over and over again because of things they deem ""insignificant issues""?",2024-04-18,https://www.reddit.com/r/AmItheAsshole/comments/1c7fixa/aita_for_ignoring_my_dad_over_and_over_again/,2024-04-18,-0.0018782161641865,0,1781090007983514107
@@ -22,5 +22,6 @@
 20,AITA for snooping into my boyfriends phone and sending hateful messages to a girl he's been talking to?,2024-05-03,https://www.reddit.com/r/AmItheAsshole/comments/1cjho1v/aita_for_snooping_into_my_boyfriends_phone_and/,2024-05-03,1.057461857795715,1,1786513650942939268
 21,AITA for leaving home?,2024-05-04,https://www.reddit.com/r/AmItheAsshole/comments/1ck3xko/aita_for_leaving_home/,2024-05-04,-0.0151635212823748,0,1786876878537781584
 22,AITA for not taking my grandmother who neglected me to her doctor's appointment?,2024-05-04,https://www.reddit.com/r/AmItheAsshole/comments/1ck7tnh/aita_for_not_taking_my_grandmother_who_neglected/,2024-05-04,-0.0068314429372549,0,1786876879305392158
-23,WIBTA if I reached out to an old friend after they got a new number?,2024-05-05,https://www.reddit.com/r/AmItheAsshole/comments/1ckwok8/wibta_if_i_reached_out_to_an_old_friend_after/,2024-05-05,1.0625258684158325,1,1787240050729836921
-24,AITA for talking about my friend behind his back?,2024-05-05,https://www.reddit.com/r/AmItheAsshole/comments/1cl1vyj/aita_for_talking_about_my_friend_behind_his_back/,2024-05-05,-0.014439073391258717,0,1787240051572867295
+24,AITA for talking about my friend behind his back?,2024-05-05,https://www.reddit.com/r/AmItheAsshole/comments/1cl1vyj/aita_for_talking_about_my_friend_behind_his_back/,2024-05-05,-0.0144390733912587,0,1787240051572867295
+25,AITA for asking to board at my school,2024-05-06,https://www.reddit.com/r/AmItheAsshole/comments/1clhbsq/aita_for_asking_to_board_at_my_school/,2024-05-06,-0.0145582547411322,0,1787600443990012075
+26,AITA for getting upset when the pastor held me under water for too long during my baptism? ,2024-05-06,https://www.reddit.com/r/AmItheAsshole/comments/1clr0ik/aita_for_getting_upset_when_the_pastor_held_me/,2024-05-06,-0.0124042741954326,0,1787600444837298203

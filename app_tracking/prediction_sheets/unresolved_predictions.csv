@@ -1,4 +1,4 @@
-index,title,post_date,url,date_created,logits,pred,tweet_id
+,title,post_date,url,date_created,logits,pred,tweet_id
 0,AITA for not wanting to work for my abusive father?,2024-04-11,https://www.reddit.com/r/AmItheAsshole/comments/1c1qwg8/aita_for_not_wanting_to_work_for_my_abusive_father/,2024-04-11,-0.01571561768651,0,1778564548938670367
 1,AITA fight about other guys with girlfriend ,2024-04-17,https://www.reddit.com/r/AmItheAsshole/comments/1c6mjhq/aita_fight_about_other_guys_with_girlfriend/,2024-04-17,1.0616611242294312,1,1780736397873389717
 2,"AITA for ignoring my dad over and over again because of things they deem ""insignificant issues""?",2024-04-18,https://www.reddit.com/r/AmItheAsshole/comments/1c7fixa/aita_for_ignoring_my_dad_over_and_over_again/,2024-04-18,-0.0018782161641865,0,1781090007983514107
@@ -26,6 +26,8 @@ index,title,post_date,url,date_created,logits,pred,tweet_id
 24,AITA for getting upset when the pastor held me under water for too long during my baptism? ,2024-05-06,https://www.reddit.com/r/AmItheAsshole/comments/1clr0ik/aita_for_getting_upset_when_the_pastor_held_me/,2024-05-06,-0.0124042741954326,0,1787600444837298203
 25,AITA for not attending my sister's party ,2024-05-08,https://www.reddit.com/r/AmItheAsshole/comments/1cn9ayf/aita_for_not_attending_my_sisters_party/,2024-05-08,1.0650213956832886,1,1788319055130067179
 26,AITA for not letting my son's boyfriend drive him to school?,2024-05-09,https://www.reddit.com/r/AmItheAsshole/comments/1co69na/aita_for_not_letting_my_sons_boyfriend_drive_him/,2024-05-09,1.0612281560897827,1,1788685494592627073
-28,AITA for exposing my cousin's pregnancy?,2024-05-13,https://www.reddit.com/r/AmItheAsshole/comments/1cr1uh4/aita_for_exposing_my_cousins_pregnancy/,2024-05-13,1.0661202669143677,1,1790130893023052199
-29,AITA for leaving the country and not telling my parents???,2024-05-14,https://www.reddit.com/r/AmItheAsshole/comments/1cs2unk/aita_for_leaving_the_country_and_not_telling_my/,2024-05-14,-0.0142451925203204,0,1790500109350011333
-30,AITA for not wanting to see my friend with ADHD anymore? ,2024-05-14,https://www.reddit.com/r/AmItheAsshole/comments/1cs1ucp/aita_for_not_wanting_to_see_my_friend_with_adhd/,2024-05-14,-0.0053664883598685,0,1790500110675345898
+27,AITA for exposing my cousin's pregnancy?,2024-05-13,https://www.reddit.com/r/AmItheAsshole/comments/1cr1uh4/aita_for_exposing_my_cousins_pregnancy/,2024-05-13,1.0661202669143677,1,1790130893023052199
+28,AITA for leaving the country and not telling my parents???,2024-05-14,https://www.reddit.com/r/AmItheAsshole/comments/1cs2unk/aita_for_leaving_the_country_and_not_telling_my/,2024-05-14,-0.0142451925203204,0,1790500109350011333
+29,AITA for not wanting to see my friend with ADHD anymore? ,2024-05-14,https://www.reddit.com/r/AmItheAsshole/comments/1cs1ucp/aita_for_not_wanting_to_see_my_friend_with_adhd/,2024-05-14,-0.0053664883598685,0,1790500110675345898
+30,AITA For moving across state suddenly? ,2024-05-15,https://www.reddit.com/r/AmItheAsshole/comments/1csnqew/aita_for_moving_across_state_suddenly/,2024-05-15,-0.006659218110144138,0,1790856182128591181
+31,AITA for saying no to going on a trip with my partner's friends?,2024-05-15,https://www.reddit.com/r/AmItheAsshole/comments/1csqv2p/aita_for_saying_no_to_going_on_a_trip_with_my/,2024-05-15,-0.0027955470141023397,0,1790856182808051915

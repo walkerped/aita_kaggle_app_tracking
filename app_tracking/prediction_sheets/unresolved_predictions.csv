@@ -1,4 +1,4 @@
-index,title,post_date,url,date_created,logits,pred,tweet_id
+,title,post_date,url,date_created,logits,pred,tweet_id
 0,AITA for not wanting to work for my abusive father?,2024-04-11,https://www.reddit.com/r/AmItheAsshole/comments/1c1qwg8/aita_for_not_wanting_to_work_for_my_abusive_father/,2024-04-11,-0.01571561768651,0,1778564548938670367
 1,AITA fight about other guys with girlfriend ,2024-04-17,https://www.reddit.com/r/AmItheAsshole/comments/1c6mjhq/aita_fight_about_other_guys_with_girlfriend/,2024-04-17,1.0616611242294312,1,1780736397873389717
 2,"AITA for ignoring my dad over and over again because of things they deem ""insignificant issues""?",2024-04-18,https://www.reddit.com/r/AmItheAsshole/comments/1c7fixa/aita_for_ignoring_my_dad_over_and_over_again/,2024-04-18,-0.0018782161641865,0,1781090007983514107
@@ -30,5 +30,7 @@ index,title,post_date,url,date_created,logits,pred,tweet_id
 28,AITA for leaving the country and not telling my parents???,2024-05-14,https://www.reddit.com/r/AmItheAsshole/comments/1cs2unk/aita_for_leaving_the_country_and_not_telling_my/,2024-05-14,-0.0142451925203204,0,1790500109350011333
 29,AITA for not wanting to see my friend with ADHD anymore? ,2024-05-14,https://www.reddit.com/r/AmItheAsshole/comments/1cs1ucp/aita_for_not_wanting_to_see_my_friend_with_adhd/,2024-05-14,-0.0053664883598685,0,1790500110675345898
 30,AITA for not giving my bf(25M) money when he needs it?,2024-05-16,https://www.reddit.com/r/AmItheAsshole/comments/1ctgy9o/aita_for_not_giving_my_bf25m_money_when_he_needs/,2024-05-16,-0.0145291993394494,0,1791215617724293321
-33,AITA For Suggesting to my wife we name our baby after my previous partner?,2024-05-18,https://www.reddit.com/r/AmItheAsshole/comments/1cv2k01/aita_for_suggesting_to_my_wife_we_name_our_baby/,2024-05-18,1.0658279657363892,1,1791939590083011042
-34,WIBTA if I did not disclose to my(28m) fiance(27f) that my zodiac sign is not Taurus(as I claimed it was when we met)?,2024-05-18,https://www.reddit.com/r/AmItheAsshole/comments/1cv5fsh/wibta_if_i_did_not_disclose_to_my28m_fiance27f/,2024-05-18,1.0672327280044556,1,1791939591253143655
+31,AITA For Suggesting to my wife we name our baby after my previous partner?,2024-05-18,https://www.reddit.com/r/AmItheAsshole/comments/1cv2k01/aita_for_suggesting_to_my_wife_we_name_our_baby/,2024-05-18,1.0658279657363892,1,1791939590083011042
+32,WIBTA if I did not disclose to my(28m) fiance(27f) that my zodiac sign is not Taurus(as I claimed it was when we met)?,2024-05-18,https://www.reddit.com/r/AmItheAsshole/comments/1cv5fsh/wibta_if_i_did_not_disclose_to_my28m_fiance27f/,2024-05-18,1.0672327280044556,1,1791939591253143655
+33,AITA for leaving a family party when my sister started shit?,2024-05-19,https://www.reddit.com/r/AmItheAsshole/comments/1cvmm1f/aita_for_leaving_a_family_party_when_my_sister/,2024-05-19,-0.013032178394496441,0,1792300420997526003
+34,WIBTA if I copied someone's work,2024-05-19,https://www.reddit.com/r/AmItheAsshole/comments/1cvs19l/wibta_if_i_copied_someones_work/,2024-05-19,1.0647927522659302,1,1792300422146712050

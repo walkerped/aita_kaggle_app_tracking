@@ -1,4 +1,4 @@
-index,title,post_date,url,date_created,logits,pred,tweet_id
+,title,post_date,url,date_created,logits,pred,tweet_id
 0,AITA for not wanting to work for my abusive father?,2024-04-11,https://www.reddit.com/r/AmItheAsshole/comments/1c1qwg8/aita_for_not_wanting_to_work_for_my_abusive_father/,2024-04-11,-0.01571561768651,0,1778564548938670367
 1,AITA fight about other guys with girlfriend ,2024-04-17,https://www.reddit.com/r/AmItheAsshole/comments/1c6mjhq/aita_fight_about_other_guys_with_girlfriend/,2024-04-17,1.0616611242294312,1,1780736397873389717
 2,"AITA for ignoring my dad over and over again because of things they deem ""insignificant issues""?",2024-04-18,https://www.reddit.com/r/AmItheAsshole/comments/1c7fixa/aita_for_ignoring_my_dad_over_and_over_again/,2024-04-18,-0.0018782161641865,0,1781090007983514107
@@ -36,5 +36,7 @@ index,title,post_date,url,date_created,logits,pred,tweet_id
 34,AITA For continuing to clap at a concert,2024-05-20,https://www.reddit.com/r/AmItheAsshole/comments/1cwmdds/aita_for_continuing_to_clap_at_a_concert/,2024-05-20,1.0614063739776611,1,1792663822664098177
 35,AITA for saying no to my mom when she always asks to hold my baby while he’s sleeping/content ,2024-05-21,https://www.reddit.com/r/AmItheAsshole/comments/1cxgsd2/aita_for_saying_no_to_my_mom_when_she_always_asks/,2024-05-21,-0.0123193552717566,0,1793029873809686683
 36,AITA for opining that people who only eat egg whites are selfish? ,2024-05-22,https://www.reddit.com/r/AmItheAsshole/comments/1cy7vhu/aita_for_opining_that_people_who_only_eat_egg/,2024-05-22,1.0636922121047974,1,1793387423147184257
-39,AITA for not changing my name for my mom after she spent the last 18 years hating it?,2024-05-24,https://www.reddit.com/r/AmItheAsshole/comments/1czgncz/aita_for_not_changing_my_name_for_my_mom_after/,2024-05-24,-0.0123768402263522,0,1794112638533751259
-40,AITA for laughing at my friend for cycling in high heels on a road bike,2024-05-24,https://www.reddit.com/r/AmItheAsshole/comments/1czu01o/aita_for_laughing_at_my_friend_for_cycling_in/,2024-05-24,1.0606778860092163,1,1794112639401857454
+37,AITA for not changing my name for my mom after she spent the last 18 years hating it?,2024-05-24,https://www.reddit.com/r/AmItheAsshole/comments/1czgncz/aita_for_not_changing_my_name_for_my_mom_after/,2024-05-24,-0.0123768402263522,0,1794112638533751259
+38,AITA for laughing at my friend for cycling in high heels on a road bike,2024-05-24,https://www.reddit.com/r/AmItheAsshole/comments/1czu01o/aita_for_laughing_at_my_friend_for_cycling_in/,2024-05-24,1.0606778860092163,1,1794112639401857454
+39,AITA for refusing to share batch cooked food with my sister?,2024-05-25,https://www.reddit.com/r/AmItheAsshole/comments/1d0d6ww/aita_for_refusing_to_share_batch_cooked_food_with/,2024-05-25,-0.012173443101346493,0,1794472117238681947
+40,AITA for not letting my sister and her kids stay with me?,2024-05-25,https://www.reddit.com/r/AmItheAsshole/comments/1d0gia7/aita_for_not_letting_my_sister_and_her_kids_stay/,2024-05-25,-0.013800631277263165,0,1794472118048165941

@@ -1,4 +1,4 @@
-,title,post_date,url,date_created,logits,pred,tweet_id
+index,title,post_date,url,date_created,logits,pred,tweet_id
 0,AITA for not wanting to work for my abusive father?,2024-04-11,https://www.reddit.com/r/AmItheAsshole/comments/1c1qwg8/aita_for_not_wanting_to_work_for_my_abusive_father/,2024-04-11,-0.01571561768651,0,1778564548938670367
 1,AITA fight about other guys with girlfriend ,2024-04-17,https://www.reddit.com/r/AmItheAsshole/comments/1c6mjhq/aita_fight_about_other_guys_with_girlfriend/,2024-04-17,1.0616611242294312,1,1780736397873389717
 2,"AITA for ignoring my dad over and over again because of things they deem ""insignificant issues""?",2024-04-18,https://www.reddit.com/r/AmItheAsshole/comments/1c7fixa/aita_for_ignoring_my_dad_over_and_over_again/,2024-04-18,-0.0018782161641865,0,1781090007983514107
@@ -56,5 +56,6 @@
 52,AITA for resenting my mom.,2024-06-21,https://www.reddit.com/r/AmItheAsshole/comments/1dl7z9m/aita_for_resenting_my_mom/,2024-06-21,-0.0145892603322863,0,1804241350088708601
 53,WIBTA for confronting my dad?,2024-06-28,https://www.reddit.com/r/AmItheAsshole/comments/1dqhs75/wibta_for_confronting_my_dad/,2024-06-28,-0.0104091810062527,0,1806770812705247695
 54,AITA for not buying my son a souvenir he wanted?,2024-06-28,https://www.reddit.com/r/AmItheAsshole/comments/1dqo99z/aita_for_not_buying_my_son_a_souvenir_he_wanted/,2024-06-28,1.063320517539978,1,1806770813976162411
-55,AITA for not being ok with lending stuff to my brother,2024-06-29,https://www.reddit.com/r/AmItheAsshole/comments/1drcvvt/aita_for_not_being_ok_with_lending_stuff_to_my/,2024-06-29,-0.01088062021881342,0,1807133453617655881
-56,AITA for not inviting my fiance’s brother to our wedding?,2024-06-29,https://www.reddit.com/r/AmItheAsshole/comments/1drfx3q/aita_for_not_inviting_my_fiances_brother_to_our/,2024-06-29,-0.008555212058126926,0,1807133454800412936
+56,AITA for not inviting my fiance’s brother to our wedding?,2024-06-29,https://www.reddit.com/r/AmItheAsshole/comments/1drfx3q/aita_for_not_inviting_my_fiances_brother_to_our/,2024-06-29,-0.0085552120581269,0,1807133454800412936
+57,AITAH for blowing up at my best friend,2024-06-30,https://www.reddit.com/r/AmItheAsshole/comments/1drw7n6/aitah_for_blowing_up_at_my_best_friend/,2024-06-30,1.064142107963562,1,1807501002930823530
+58,AITA for reacting the way I did? ,2024-06-30,https://www.reddit.com/r/AmItheAsshole/comments/1dry6op/aita_for_reacting_the_way_i_did/,2024-06-30,1.067719578742981,1,1807501004155637933

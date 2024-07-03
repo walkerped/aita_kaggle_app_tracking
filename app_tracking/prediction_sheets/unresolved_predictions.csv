@@ -1,4 +1,4 @@
-index,title,post_date,url,date_created,logits,pred,tweet_id
+,title,post_date,url,date_created,logits,pred,tweet_id
 0,AITA for not wanting to work for my abusive father?,2024-04-11,https://www.reddit.com/r/AmItheAsshole/comments/1c1qwg8/aita_for_not_wanting_to_work_for_my_abusive_father/,2024-04-11,-0.01571561768651,0,1778564548938670367
 1,AITA fight about other guys with girlfriend ,2024-04-17,https://www.reddit.com/r/AmItheAsshole/comments/1c6mjhq/aita_fight_about_other_guys_with_girlfriend/,2024-04-17,1.0616611242294312,1,1780736397873389717
 2,"AITA for ignoring my dad over and over again because of things they deem ""insignificant issues""?",2024-04-18,https://www.reddit.com/r/AmItheAsshole/comments/1c7fixa/aita_for_ignoring_my_dad_over_and_over_again/,2024-04-18,-0.0018782161641865,0,1781090007983514107
@@ -59,5 +59,7 @@ index,title,post_date,url,date_created,logits,pred,tweet_id
 55,AITA for not inviting my fiance’s brother to our wedding?,2024-06-29,https://www.reddit.com/r/AmItheAsshole/comments/1drfx3q/aita_for_not_inviting_my_fiances_brother_to_our/,2024-06-29,-0.0085552120581269,0,1807133454800412936
 56,AITA for reacting the way I did? ,2024-06-30,https://www.reddit.com/r/AmItheAsshole/comments/1dry6op/aita_for_reacting_the_way_i_did/,2024-06-30,1.067719578742981,1,1807501004155637933
 57,AITA for asking guy who was not socializing to leave my friend’s party,2024-07-01,https://www.reddit.com/r/AmItheAsshole/comments/1dso96j/aita_for_asking_guy_who_was_not_socializing_to/,2024-07-01,1.063533902168274,1,1807859274057765142
-59,AITA Am i the asshole for making my sister pay,2024-07-02,https://www.reddit.com/r/AmItheAsshole/comments/1dthgwt/aita_am_i_the_asshole_for_making_my_sister_pay/,2024-07-02,-0.0089694270864129,0,1808222034792489353
-60,AITA For wearing an American flag speedo to a pool party and embarrassing my GF,2024-07-02,https://www.reddit.com/r/AmItheAsshole/comments/1dtpjo5/aita_for_wearing_an_american_flag_speedo_to_a/,2024-07-02,1.0622429847717283,1,1808222036033986966
+58,AITA Am i the asshole for making my sister pay,2024-07-02,https://www.reddit.com/r/AmItheAsshole/comments/1dthgwt/aita_am_i_the_asshole_for_making_my_sister_pay/,2024-07-02,-0.0089694270864129,0,1808222034792489353
+59,AITA For wearing an American flag speedo to a pool party and embarrassing my GF,2024-07-02,https://www.reddit.com/r/AmItheAsshole/comments/1dtpjo5/aita_for_wearing_an_american_flag_speedo_to_a/,2024-07-02,1.0622429847717283,1,1808222036033986966
+60,AITA for sharing my Best friend’s secret with her Friend?,2024-07-03,https://www.reddit.com/r/AmItheAsshole/comments/1duek2d/aita_for_sharing_my_best_friends_secret_with_her/,2024-07-03,1.0642521381378174,1,1808582602070143067
+61,AITA for not lending money to my sister (who can’t afford a bill) even though I have the money ,2024-07-03,https://www.reddit.com/r/AmItheAsshole/comments/1duhw3r/aita_for_not_lending_money_to_my_sister_who_cant/,2024-07-03,-0.007958700880408287,0,1808582602862833958

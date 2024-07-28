@@ -1,4 +1,4 @@
-index,title,post_date,url,date_created,logits,pred,tweet_id
+,title,post_date,url,date_created,logits,pred,tweet_id
 0,AITA for not wanting to work for my abusive father?,2024-04-11,https://www.reddit.com/r/AmItheAsshole/comments/1c1qwg8/aita_for_not_wanting_to_work_for_my_abusive_father/,2024-04-11,-0.01571561768651,0,1778564548938670367
 1,AITA fight about other guys with girlfriend ,2024-04-17,https://www.reddit.com/r/AmItheAsshole/comments/1c6mjhq/aita_fight_about_other_guys_with_girlfriend/,2024-04-17,1.0616611242294312,1,1780736397873389717
 2,"AITA for ignoring my dad over and over again because of things they deem ""insignificant issues""?",2024-04-18,https://www.reddit.com/r/AmItheAsshole/comments/1c7fixa/aita_for_ignoring_my_dad_over_and_over_again/,2024-04-18,-0.0018782161641865,0,1781090007983514107
@@ -77,5 +77,7 @@ index,title,post_date,url,date_created,logits,pred,tweet_id
 73,AITAH for asking players on a video game to stop discussing religion?,2024-07-22,https://www.reddit.com/r/AmItheAsshole/comments/1e9hrp2/aitah_for_asking_players_on_a_video_game_to_stop/,2024-07-22,1.0635603666305542,1,1815458270662062500
 74,AITA if I kick my friend out of my wedding party with my wedding being only a couple months away? ,2024-07-24,https://www.reddit.com/r/AmItheAsshole/comments/1eb44ck/aita_if_i_kick_my_friend_out_of_my_wedding_party/,2024-07-24,1.0642985105514526,1,1816182211437081065
 75,AITA for telling my parents i had hobbies?,2024-07-25,https://www.reddit.com/r/AmItheAsshole/comments/1ebuloa/aita_for_telling_my_parents_i_had_hobbies/,2024-07-25,-0.0147922737523913,0,1816542483318497695
-78,AITA for Trying to Reconcile with My Ex Even Though She Has a New Boyfriend?,2024-07-27,https://www.reddit.com/r/AmItheAsshole/comments/1ed9h1f/aita_for_trying_to_reconcile_with_my_ex_even/,2024-07-27,1.0626946687698364,1,1817264916593565865
-79,AITA for making a dummy account and trying to bait my (23 F) boyfriend (20 M) to see if he'll bite.,2024-07-27,https://www.reddit.com/r/AmItheAsshole/comments/1ed8ni2/aita_for_making_a_dummy_account_and_trying_to/,2024-07-27,1.066543459892273,1,1817264917776359521
+76,AITA for Trying to Reconcile with My Ex Even Though She Has a New Boyfriend?,2024-07-27,https://www.reddit.com/r/AmItheAsshole/comments/1ed9h1f/aita_for_trying_to_reconcile_with_my_ex_even/,2024-07-27,1.0626946687698364,1,1817264916593565865
+77,AITA for making a dummy account and trying to bait my (23 F) boyfriend (20 M) to see if he'll bite.,2024-07-27,https://www.reddit.com/r/AmItheAsshole/comments/1ed8ni2/aita_for_making_a_dummy_account_and_trying_to/,2024-07-27,1.066543459892273,1,1817264917776359521
+78,AITA for using my girls Netflixaccount without telling her ?,2024-07-28,https://www.reddit.com/r/AmItheAsshole/comments/1ee2xce/aita_for_using_my_girls_netflixaccount_without/,2024-07-28,1.0665487051010132,1,1817627818345607620
+79,AITAH for not sending my friend a packages abroad,2024-07-28,https://www.reddit.com/r/AmItheAsshole/comments/1ee5xak/aitah_for_not_sending_my_friend_a_packages_abroad/,2024-07-28,-0.0011265284847468138,0,1817627819192799436

@@ -1,0 +1,3 @@
+index,title,post_date,url,date_created,logits,pred,tweet_id,outcome_str,outcome
+39,AITA for calling my dad a shitty father?,2024-05-26,https://www.reddit.com/r/AmItheAsshole/comments/1d1311w/aita_for_calling_my_dad_a_shitty_father/,2024-05-26,-0.0110798776149749,0,1794831775199637982,Not the A-hole,0.0
+40,AITA for asking my daughter to share her money ,2024-05-26,https://www.reddit.com/r/AmItheAsshole/comments/1d18k5y/aita_for_asking_my_daughter_to_share_her_money/,2024-05-26,1.0638197660446167,1,1794831776017498189,Asshole,1.0
